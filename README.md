@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de Carga em C++
- Trabalho realizado na cadeira de Programação em C/C++ na UNISINOS pelo professor Marcio Miguel Gomes
+ Trabalho realizado na cadeira de Programação em C/C++ na UNISINOS pelo professor Marcio Miguel Gomes em 2024/1.
 
  Sistema para gerenciamento de um caminhão de carga, permitindo o usuário criar um caminhão com o número máximo de pacotes e peso máximo, e após isso realizar funções como adição, retirada, consulta de situação e representação visual do momento atual do caminhão.
 
